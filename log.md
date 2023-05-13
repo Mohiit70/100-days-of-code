@@ -1,30 +1,173 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: April 29, 2023
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Today I learned the basics of Html creating structured content, adding links and images, and organizing web pages.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: April 30, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: I learned the basics of CSS, revised the concepts of flexbox and its properties.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 3: May 1, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: I created a navigation bar using HTML and CSS.  
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 4: May 2, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: I created a navigation bar using HTML and CSS.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 5: May 3, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Today, I designed a logo for my friend's marketing project and built a landing page for it using HTML and CSS.  
+
+**Thoughts**: Excited to keep learning and building!
+
+**Link(s) to work**:
+
+### Day 6: May 4, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Created a non-responsive page for boostbridge using flex properties and reverse hover effect! I experimented with different color schemes and font styles.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**: boostbridge.netlify.app
+
+### Day 7: May 5, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Continued working on the boostbridge page. I added more content and adjusted the layout to improve user experience. It's amazing how small changes can make a big difference!
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 8: May 6, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Started working on landing pages for Taxi Website and learned about gradient effects! I'm focusing on creating a responsive layout that adapts to different screen sizes. Can't wait to see the final product!
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 9: May 7, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Reversion up on my JavaScript basics! I reviewed fundamental concepts like variables, data types, and conditional statements.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 10: May 8, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Learned about JS variables, loops, & contributed to  @ToolJet documentation. Also updated my GitHub README profile.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 11: May 9, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Explored file handling in C so far! Learning how to read, write, and manipulate files. Excited to apply this knowledge in future projects.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 12: May 10, 2023
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
 
+### Day 13: April 30, 2023
+##### (delete me or comment me out)
 
-### Day 1: June 27, Monday
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**:
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 14: April 30, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 15: April 30, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 16: April 30, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 17: April 30, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 18: April 30, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
+### Day 2: April 30, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link(s) to work**:
+
